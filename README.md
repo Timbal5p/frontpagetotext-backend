@@ -12,7 +12,7 @@ If you want to use the code, follow the steps below:
 
 Enter your user name and session id at line 3
 
-If you want to know how to get your session id, click here.
+If you want to know how to get your session id, click [here](https://github.com/Timbal5p/scratch_python_server_code_timbal5p/blob/main/how_to_get_session_id.md).
 
 **2. Set up your project**
 
