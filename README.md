@@ -34,6 +34,6 @@ Yes, it is! Your login information will only be used to process the cloud reques
 ## What libraries does it need?
 This only needs scratchattach to work. Just run ``pip install scratchattach``
 ## How does it work?
-The project first pings the server, then, the project will send a ``get_frontpage_mode_1`` or ``get_frontpage_mode_2_step_(step)`` request to the server
+The project first pings the server, then, the project will send a ``get_frontpage_mode_1`` or ``get_frontpage_mode_2_step_(step)`` request to the server, the server converts the frontpage to text and sends it back to the project
 ## I found a bug!
 Dont worry, just open an issue!
