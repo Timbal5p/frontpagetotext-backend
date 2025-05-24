@@ -1,10 +1,13 @@
+# frontpagetotext-backend
+the backend for frontpage to text, a scratch project
+
 > [!WARNING]
 > Remember that this is still in Beta, so expect things to break
 
 > [!NOTE]
 > This was made using scratchattach. Check it out [here](https://github.com/TimMcCool/scratchattach/)
-# scratch_python_server_code_timbal5p
-a repo for the python scripts that run on the server for my scratch projects
+
+
 # How to use
 If you want to use the code, follow the steps below:
 
