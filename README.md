@@ -8,7 +8,7 @@ the backend for frontpage to text, a scratch project
 > This was made using scratchattach. Check it out [here](https://github.com/TimMcCool/scratchattach/)
 
 
-# How to use
+## How to use
 If you want to use the code, follow the steps below:
 
 **1. Enter your username and session id**
