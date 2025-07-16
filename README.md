@@ -2,6 +2,9 @@
 the backend for frontpage to text, a scratch project
 
 > [!WARNING]
+> This backend is no longer hosted by me because I can't log into my scratch account.
+
+> [!WARNING]
 > Remember that this is still in Beta, so expect things to break
 
 > [!NOTE]
